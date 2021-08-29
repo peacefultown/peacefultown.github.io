@@ -26,7 +26,199 @@ $(function()
 		url:"Musics/Relaxwithmycat.mp3",
 		picture: "Background/circle.jpg"
         },{
+		artist: "R L I F E",
+		name: "Last Summer",
+		url:"Musics/lastsummer.mp3",
+		picture: "Background/circle.jpg"
+        },{
+		artist: "C4C",
+		name: "Miss You",
+		url:"Musics/missyou.mp3",
+		picture: "Background/Missyou.jpg"
+        },{
+		artist: "Loafy Building feat. Socrab & Ticofaces",
+		name: "Leicester Square",
+		url:"Musics/Leicestersquare.mp3",
+		picture: "Background/Leicestersquare.jpg"
+        },{
+		artist: "Cloud Break",
+		name: "Smile",
+		url:"Musics/Smile.mp3",
+		picture: "Background/Smile.jpg"
+        },{
+		artist: "S N U G Ft. Dyrean",
+		name: "Sparks",
+		url:"Musics/Sparks.mp3",
+		picture: "Background/Sparks.jpg"
+        },{
+		artist: "Sebastian Kamae",
+		name: "Outlet",
+		url:"Musics/Outlet.mp3",
+		picture: "Background/Outlet.jpg"
+        },{
+		artist: " Cloud Break feat. Full Skies",
+		name: "Weightless",
+		url:"Musics/Weightless.mp3",
+		picture: "Background/Weightless.jpg"
+        },{
+		artist: "S N U G",
+		name: "Warm Meadows",
+		url:"Musics/WarmMeadows.mp3",
+		picture: "Background/WarmMeadows.jpg"
+        },{
+		artist: "Ambulo",
+		name: "In Orbit",
+		url:"Musics/InOrbit.mp3",
+		picture: "Background/InOrbit.jpg"
+        },{
+		artist: "Loafy Building",
+		name: "High Flying w/ Yestalgia",
+		url:"Musics/HighFlyingwYestalgia.mp3",
+		picture: "Background/HighFlyingwYestalgia.jpg"
+        },{
+		artist: "Flovry",
+		name: "Birdbath (Chillhop Daydreams 2)",
+		url:"Musics/Birdbath.mp3",
+		picture: "Background/Birdbath.jpg"
+        },{
+		artist: "S N U G ft. cxlt",
+		name: "Cosmos",
+		url:"Musics/Cosmos.mp3",
+		picture: "Background/Cosmos.jpg"
+        },{
+		artist: "Loafy Building feat. Kainbeats",
+		name: "My Happy Place",
+		url:"Musics/MyHappyPlace.mp3",
+		picture: "Background/MyHappyPlace.jpg"
+        },{
+		artist: "Loafy Building feat. Hoogway",
+		name: "Reflecting",
+		url:"Musics/Reflecting.mp3",
+		picture: "Background/Reflecting.jpg"
+        },{
+		artist: "Cloud Break",
+		name: "Nightfall",
+		url:"Musics/Nightfall.mp3",
+		picture: "Background/Nightfall.jpg"
+        },{
+		artist: "eugenio izzi",
+		name: "Like A Serendipity",
+		url:"Musics/LikeASerendipity.mp3",
+		picture: "Background/LikeASerendipity.jpg"
+        },{
+		artist: "Charlee Nguyen",
+		name: "Living ≠ Surviving",
+		url:"Musics/LivingSurviving.mp3",
+		picture: "Background/LivingSurviving.jpg"
+        },{
+		artist: "Loafy Building",
+		name: "Moonglow w/ Mondo Loops",
+		url:"Musics/MoonglowwMondoLoops.mp3",
+		picture: "Background/MoonglowwMondoLoops.jpg"
+        },{
+		artist: "S N U G",
+		name: "Missing You",
+		url:"Musics/MissingYou.mp3",
+		picture: "Background/MissingYou.jpg"
+        },{
+		artist: "Project AER",
+		name: "Lark Rise",
+		url:"Musics/LarkRise.mp3",
+		picture: "Background/LarkRise.jpg"
+        },{
+		artist: "Purrple Cat",
+		name: "Where The Waves Take Us",
+		url:"Musics/WhereTheWavesTakeUs.mp3",
+		picture: "Background/WhereTheWavesTakeUs.jpg"
+        },{
+		artist: " Loafy Building",
+		name: "Warm Shimmers w/ Project AER",
+		url:"Musics/WarmShimmerswProjectAER.mp3",
+		picture: "Background/WarmShimmerswProjectAER.jpg"
+        },{	
+		artist: "Ambulo",
+		name: "Stratosphere",
+		url:"Musics/Stratosphere.mp3",
+		picture: "Background/Stratosphere.jpg"
+        },{
+		artist: "Cloud Break",
+		name: "Miller",
+		url:"Musics/Miller.mp3",
+		picture: "Background/Miller.jpg"
+        },{
+		artist: "Flovry",
+		name: "first heartbreak w/ tender spring",
+		url:"Musics/firstheartbreakwtenderspring.mp3",
+		picture: "Background/firstheartbreakwtenderspring.jpg"
+        },{
+		artist: "Flovry",
+		name: "wind down",
+		url:"Musics/winddown.mp3",
+		picture: "Background/winddown.jpg"
+        },{	
+		artist: "S N U G",
+		name: "Directions",
+		url:"Musics/Directions.mp3",
+		picture: "Background/Directions.jpg"
+        },{
+		artist: "Loafy Building",
+		name: "Max's Garden w/ w00ds",
+		url:"Musics/MaxsGardenww00ds.mp3",
+		picture: "Background/MaxsGardenww00ds.jpg"
+        },{
+		artist: "eugenio izzi",
+		name: "A Fresh Breath",
+		url:"Musics/AFreshBreath.mp3",
+		picture: "Background/AFreshBreath.jpg"
+        },{
+		artist: "C4C",
+		name: "Highway To Heaven",
+		url:"Musics/HighwayToHeaven.mp3",
+		picture: "Background/HighwayToHeaven.jpg"
+        },{	
+		artist: "Lost Days",
+		name: "Mondo Loops",
+		url:"Musics/MondoLoops.mp3",
+		picture: "Background/MondoLoops.jpg"
+        },{
+		artist: "mrmcchickino",
+		name: "blurry",
+		url:"Musics/blurry.mp3",
+		picture: "Background/blurry.jpg"
+        },{
+		artist: "S N U G",
+		name: "Illusion",
+		url:"Musics/Illusion.mp3",
+		picture: "Background/Illusion.jpg"
+        },{
+		artist: "Purrple Cat",
+		name: "Ferris Wheel",
+		url:"Musics/FerrisWheel.mp3",
+		picture: "Background/FerrisWheel.jpg"
+        },{	
+		artist: "Pueblo Vista",
+		name: "l'Outlander - Across The Valley",
+		url:"Musics/lOutlanderAcrossTheValley.mp3",
+		picture: "Background/lOutlanderAcrossTheValley.jpg"
+        },{
+		artist: "Nom",
+		name: "A Moment To Remember",
+		url:"Musics/AMomentToRemember.mp3",
+		picture: "Background/AMomentToRemember.jpg"
+        },{		
         }];
+
+	function shuffle(a) {
+		var j, x, i;
+		for (i = a.length - 1; i > 0; i--) {
+			j = Math.floor(Math.random() * (i + 1));
+			x = a[i];
+			a[i] = a[j];
+			a[j] = x;
+		}
+		return a;
+	}
+	songs = shuffle(songs);
 
     function playPause()
     {
