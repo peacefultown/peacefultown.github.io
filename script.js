@@ -33,12 +33,12 @@ $(function()
         },{
 		artist: "C4C",
 		name: "Miss You",
-		url:"Musics/missyou.mp3",
+		url:"Musics/MissYou.mp3",
 		picture: "Background/MissYou.jpg"
         },{
 		artist: "Loafy Building feat. Socrab",
 		name: "Leicester Square",
-		url:"Musics/Leicestersquare.mp3",
+		url:"Musics/LeicesterSquare.mp3",
 		picture: "Background/LeicesterSquare.jpg"
         },{
 		artist: "Cloud Break",
