@@ -34,12 +34,12 @@ $(function()
 		artist: "C4C",
 		name: "Miss You",
 		url:"Musics/missyou.mp3",
-		picture: "Background/Missyou.jpg"
+		picture: "Background/MissYou.jpg"
         },{
 		artist: "Loafy Building feat. Socrab",
 		name: "Leicester Square",
 		url:"Musics/Leicestersquare.mp3",
-		picture: "Background/Leicestersquare.jpg"
+		picture: "Background/LeicesterSquare.jpg"
         },{
 		artist: "Cloud Break",
 		name: "Smile",
