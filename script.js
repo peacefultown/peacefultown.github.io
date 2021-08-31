@@ -36,7 +36,7 @@ $(function()
 		url:"Musics/missyou.mp3",
 		picture: "Background/Missyou.jpg"
         },{
-		artist: "Loafy Building feat. Socrab & Ticofaces",
+		artist: "Loafy Building feat. Socrab",
 		name: "Leicester Square",
 		url:"Musics/Leicestersquare.mp3",
 		picture: "Background/Leicestersquare.jpg"
